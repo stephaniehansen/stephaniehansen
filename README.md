@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Stephanie 👋 👩‍💻
+
+I'm a front-end developer and designer with a passion for transforming complex problems into simple and intuitive solutions.
+
 
 <!--
 **stephaniehansen/stephaniehansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
